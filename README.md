@@ -11,7 +11,7 @@ I'm learning security automation by building small tools in Python.
 ### Projects
 | Project | What it does | Built with |
 |---|---|---|
-| [python-security-automation](https://github.com/Hector521/python-security-automation) | Reads authentication logs and flags repeated failed logins | Python |
+| [python-security-automation](https://github.com/Hector521/python-security-automation) | Scans a log file and counts failed login attempts | Python |
 
 ### Education
 - **DePaul University**: BS/MS Cybersecurity, AI Engineering concentration (in progress)
